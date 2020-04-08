@@ -1,0 +1,5 @@
+# CodeLite makefiles
+####################
+*.mk
+*.project
+compile_flags.txt
